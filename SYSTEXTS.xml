@@ -1,0 +1,1058 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<text xml:space="preserve">	ALBION System texts (ENGLISH)
+
+	*** Party member portraits ***
+
+<line id="0">%s (LB:%d, MB:%d)</line>
+<line id="593">Dát%s  %s </line>
+<line id="594">Dát zlato %s </line>
+<line id="595">Dát jídlo %s </line>
+<line id="596">{INK 006}% nemá dostatek místa!</line>
+<line id="597">{INK 006}% nemůže nést tolik zlata!</line>
+<line id="598">{INK 006}% nemůže nést tolik porcí!</line>
+
+
+	*** Party member pop-up menu ***
+
+<line id="70">Obrazovka charakteru</line>
+<line id="10">Použít magii</line>
+<line id="4">Udělat vůdcem</line>
+<line id="5">Mluvit s...</line>
+<line id="701">Přepínač</line>
+<line id="425">{INK 006}Dosud neznáš žádná kouzla!</line>
+<line id="512">{INK 006}Právě nemůžeš mluvit!</line>
+<line id="735">{INK 006}Mellthas nemůže mluvit.</line>
+<line id="542">{INK 006}Nemůžeš nyní vést partu!</line>
+<line id="757">{INK 006}Tento batoh není právě volný!</line>
+
+
+	*** New active member selector ***
+
+<line id="545">Kdo nyní povede partu?</line>
+<line id="544">{INK 006}Tato osoba nemůže vést partu!</line>
+<line id="541">{INK 006}Někdo musí vést partu!</line>
+
+
+	*** Map pop-up menu ***
+
+<line id="6">Mluvit s</line>
+<line id="7">Prozkoumat</line>
+<line id="8">Zacházet s</line>
+<line id="9">Použít předmět</line>
+<line id="74">Vzít</line>
+<line id="11">{INK 002}Cestovat pěšky</line>
+<line id="130">{INK 002}Mapa</line>
+<line id="12">{INK 002}Odpočinek</line>
+<line id="723">{INK 002}čekat</line>
+<line id="696">{INK 002}Hlavní nabídka</line>
+(tento se také objevuje v rolovací bojové nabídce)
+<line id="14">Prostředí</line>
+<line id="513">Osoba</line>
+
+<line id="489">{INK 006}Není možné nést tak mnoho!</line>
+<line id="490">{INK 006}Není dostatek místa!</line>
+<line id="601">{INK 006}Je to zde poněkud nebezpečné!</line>
+<line id="430">Který předmět použít?</line>
+<line id="431">Tento předmět zde neúčinkuje.</line>
+<line id="432">Toto slovo zde neúčinkuje.</line>
+
+<line id="532">{INK 006}Příliš daleko.</line>
+<line id="533">{INK 006}Příliš daleko na konverzaci.</line>
+<line id="534">{INK 006}Příliš daleko na dosah.</line>
+<line id="535">{INK 006}Zablokováno.</line>
+<line id="536">{INK 006}Příliš daleko.</line>
+<line id="537">{INK 006}Zablokováno.</line>
+
+<line id="539">Tato osoba spí!</line>
+<line id="540">Tato osoba mluví jazykem, kterému {LEAD}{NAME} nerozumí.</line>
+<line id="543">Tito lidé nemluví stejným jazykem.</line>
+<line id="724">Kolik hodin počkat?</line>
+<line id="726">Skutečně odpočívat?</line>
+
+
+	*** Inventory item pop-up menu ***
+
+<line id="15">Položit</line>
+<line id="16">Naučit se kouzlo</line>
+<line id="17">Prozkoumat</line>
+<line id="18">Vypít</line>
+<line id="19">Vyvolat kouzlo</line>
+<line id="20">číst</line>
+<line id="131">Vyvolat</line>
+<line id="574">Prodat</line>
+<line id="607">Použít</line>
+<line id="760">{INK 006}Ne během boje!</line>
+<line id="752">% nemá dostatek místa!</line>
+
+
+	*** Inventory screen ***
+
+<line id="21">Opustit obrazovku charakteru</line>
+<line id="47">Batoh</line>
+<line id="54">Obrazovka charakteru 1</line>
+<line id="55">Obrazovka charakteru 2</line>
+<line id="56">Obrazovka charakteru 3</line>
+<line id="57">I</line>
+<line id="58">II</line>
+<line id="59">III</line>
+<line id="677">Poškození : %d</line>
+<line id="678">Ochrana : %d</line>
+<line id="679">Váha : %d Kg</line>
+<line id="680">Nesená váha : %ld z %ld g</line>
+
+
+	*** Items ***
+
+<line id="22">%s</line>
+<line id="517">Položit %s</line>
+<line id="518">Vyměnit %s za %s</line>
+<line id="519">{INK 006}Toto místo je zabrané!</line>
+<line id="520">Přidat</line>
+<line id="577">{INK 006}%s (%d.%u zlato)</line>
+<line id="579">%s (%d.%u zlato)</line>
+
+
+	*** Item types ***
+
+<line id="23">Brnění</line>
+<line id="24">Helma</line>
+<line id="25">Boty</line>
+<line id="26">štít</line>
+<line id="27">Zbraň s krátkým dosahem</line>
+<line id="28">Zbraň s dlouhým dosahem</line>
+<line id="29">Munice</line>
+<line id="30">Dokument</line>
+<line id="31">Kouzelný svitek</line>
+<line id="32">Nápoj</line>
+<line id="33">Amulet</line>
+<line id="34">Náprsní spona</line>
+<line id="35">Prsten</line>
+<line id="36">Cennost</line>
+<line id="37">Nástroj</line>
+<line id="38">Klíč</line>
+<line id="39">Běžnost</line>
+<line id="40">Magický předmět</line>
+<line id="41">Zvláštní předmět</line>
+<line id="42">Přeprava</line>
+<line id="43">Páčidlo</line>
+<line id="44">Pochodeň</line>
+<line id="45"></line>
+<line id="46"></line>
+
+
+	*** Gold / food ***
+
+<line id="48">%d.%u zlato</line>
+<line id="49">%d jídla</line>
+<line id="51">Zlato</line>
+<line id="53">Jídlo</line>
+<line id="50">Zahodit</line>
+<line id="727">Kolik zlata zahodit?</line>
+<line id="728">Skutečně zahodit zlato?</line>
+<line id="729">Kolik zahodit zlata?</line>
+<line id="730">Skutečně zahodit jídlo?</line>
+<line id="52">Kolik vzít zlata?</line>
+<line id="515">Kolik vzít jídla?</line>
+
+
+	*** Locks ***
+
+<line id="71">Zámek</line>
+<line id="72">Vypáčit zámek</line>
+<line id="73">Otevřít zámek</line>
+<line id="522">{LEAD}{NAME} vypáčil zámek!</line>
+<line id="523">Tento zámek nemůže být vypáčen!</line>
+<line id="524">{LEAD}{NAME} spustil past, ale podařilo se mu jí vyhnout!</line>
+<line id="525">{LEAD}{NAME} spustil past!</line>
+<line id="526">{LEAD}{NAME} otevřel zámek!</line>
+<line id="527">{LEAD}{NAME} vylomil zámek páčidlem!</line>
+<line id="528">Tohle není správný klíč.</line>
+<line id="529">Tímhle předmětem zámek otevřít nemůžeš.</line>
+<line id="538">{LEAD}{NAME} nemůže otevřít zámek!</line>
+
+
+	*** High-level text commands ***
+
+<line id="75">on</line>
+<line id="76">ona</line>
+<line id="77">to</line>
+
+<line id="78">jemu</line>
+<line id="79">jí</line>
+<line id="80">tomu</line>
+
+<line id="81">jeho</line>
+<line id="82">její</line>
+<line id="83">toho</line>
+
+<line id="84">muž</line>
+<line id="85">žena</line>
+<line id="86">bytost</line>
+
+
+	*** Race names ***
+
+<line id="456">Terran</line>
+<line id="457">Iskai</line>
+<line id="458">Kelt</line>
+<line id="459">Kenget Kamulos</line>
+
+<line id="460">Dji Cantos</line>
+<line id="461">Mahino</line>
+<line id="462">Decadent</line>
+<line id="463">Umajo</line>
+
+<line id="464"></line>
+<line id="465"></line>
+<line id="466"></line>
+<line id="467"></line>
+
+<line id="468"></line>
+<line id="469"></line>
+<line id="470"></line>
+<line id="471">Netvor</line>
+
+
+	*** Class names ***
+
+<line id="95">Pilot</line>
+<line id="96">Vědec</line>
+<line id="97">Válečník</line>
+<line id="98">mág Dji-Kas</line>
+
+<line id="99">Druid</line>
+<line id="100">Osvícený</line>
+<line id="101">Technik</line>
+<line id="102"></line>
+
+<line id="103">Oqulo Kamulos</line>
+<line id="104">Válečník</line>
+<line id="105"></line>
+<line id="106"></line>
+
+<line id="107"></line>
+<line id="108"></line>
+<line id="109"></line>
+<line id="110"></line>
+
+<line id="111"></line>
+<line id="112"></line>
+<line id="113"></line>
+<line id="114"></line>
+
+<line id="115"></line>
+<line id="116"></line>
+<line id="117"></line>
+<line id="118"></line>
+
+<line id="119"></line>
+<line id="120"></line>
+<line id="121"></line>
+<line id="122"></line>
+
+<line id="123"></line>
+<line id="124"></line>
+<line id="125"></line>
+<line id="126"></line>
+
+
+	*** Racist insults ***
+
+	UNUSED
+<line id="472"></line>
+<line id="473"></line>
+<line id="474"></line>
+<line id="475"></line>
+
+<line id="476"></line>
+<line id="477"></line>
+<line id="478"></line>
+<line id="479"></line>
+
+<line id="480"></line>
+<line id="481"></line>
+<line id="482"></line>
+<line id="483"></line>
+
+<line id="484"></line>
+<line id="485"></line>
+<line id="486"></line>
+<line id="487"></line>
+
+
+	*** Class insults ***
+
+	UNUSED
+<line id="135"></line>
+<line id="136"></line>
+<line id="137"></line>
+<line id="138"></line>
+
+<line id="139"></line>
+<line id="140"></line>
+<line id="141"></line>
+<line id="142"></line>
+
+<line id="143"></line>
+<line id="144"></line>
+<line id="145"></line>
+<line id="146"></line>
+
+<line id="147"></line>
+<line id="148"></line>
+<line id="149"></line>
+<line id="150"></line>
+
+<line id="151"></line>
+<line id="152"></line>
+<line id="153"></line>
+<line id="154"></line>
+
+<line id="155"></line>
+<line id="156"></line>
+<line id="157"></line>
+<line id="158"></line>
+
+<line id="159"></line>
+<line id="160"></line>
+<line id="161"></line>
+<line id="162"></line>
+
+<line id="163"></line>
+<line id="164"></line>
+<line id="165"></line>
+<line id="166"></line>
+
+
+	*** Automapper icons (2...17) ***
+
+<line id="168">Mluvící v hádankách</line>
+<line id="169">Teleport</line>
+<line id="170">Pavouk</line>
+<line id="171">Past</line>
+<line id="172">Dveře s pastí</line>
+<line id="173">Zvláštní</line>
+<line id="174">Netvor</line>
+<line id="175">Zavřené dveře</line>
+<line id="176">Otevřené dveře</line>
+<line id="177">Kupec</line>
+<line id="178">Hospoda</line>
+<line id="179">Zavřená truhla</line>
+<line id="180">Východ</line>
+<line id="181">Otevřená truhla</line>
+<line id="182">Hromada smetí</line>
+<line id="183">Osoba</line>
+  (Message 184 in this sequence is the Goto-point, which is a special case.)
+<line id="185">Událost</line>
+
+
+	*** Inventory messages ***
+
+<line id="184">Nemá žádné volné prostředky!</line>
+<line id="599">špatná třída!</line>
+<line id="186">špatný kouzelný prostor!</line>
+<line id="187">Nikdo nezná tuto kouzelnou třídu!</line>
+<line id="188">Toto kouzlo je již známé!</line>
+<line id="189">Tato úroveň kouzel je příliš vysoká!</line>
+<line id="190">{SUBJ}{NAME} se naučil kouzlo!</line>
+<line id="191">Předmět je zničený!</line>
+<line id="192">Kolik předmětů zahodit?</line>
+<line id="193">{INK 006}Toto je důležitý předmět!</line>
+<line id="62">Skutečně chceš tento předmět zahodit?</line>
+<line id="531">Skutečně chceš tyto předměty zahodit?</line>
+<line id="63">{INK 006}Tento předmět je prokletý!</line>
+<line id="65">{INK 006}Během boje není možné změnit výstroj!</line>
+<line id="66">Jak mnoho předmětů vzít?</line>
+<line id="67">{INK 006}Během boje není možné změnit výstroj!</line>
+<line id="68">{INK 006}Tento předmět nemůžeš používat!</line>
+<line id="194">{INK 006}Tento předmět je zničený!</line>
+<line id="195">{INK 006}Tento charakter má pro tenhle předmět špatnou třídu!</line>
+<line id="196">{INK 006}Tento charakter má pro tenhle předmět špatné pohlaví!</line>
+<line id="197">{INK 006}Nedostatek volných rukou!</line>
+<line id="132">{INK 006}Tento předmět je již aktivní!</line>
+<line id="719">Kdo to má vypít?</line>
+
+
+	*** Tactical window ***
+
+<line id="697">Boj</line>
+<line id="746">Nicnedělání</line>
+<line id="1">útok</line>
+<line id="2">Pohyb</line>
+<line id="3">Použít magii</line>
+<line id="198">Utéct</line>
+<line id="199">Použít magický předmět</line>
+<line id="200">Posunout partu</line>
+<line id="488">{INK 002}Pozorovat</line>
+<line id="546">{INK 002}Konec boje</line>
+<line id="202">{INK 002}Začít kolo!</line>
+<line id="437">{INK 006}Není možné útočit!</line>
+<line id="438">{INK 006}Není možné způsobit poškození!</line>
+<line id="439">{INK 006}Není možné se pohnout!</line>
+<line id="440">{INK 006}Není možné se odsud dostat!</line>
+<line id="755">{INK 006}Tato parta už byla posunuta!</line>
+
+
+	*** Spell names for class 0 ***
+
+<line id="203">Trnová past</line>
+<line id="204">VYMAZáNO</line>
+<line id="205">VYMAZáNO</line>
+<line id="206">Spěch</line>
+<line id="207">Pohled na život</line>
+
+<line id="208">Zmrzlá štěpina</line>
+<line id="209">Zmrzlý krystal</line>
+<line id="210">Zmrzlá lavina</line>
+<line id="211">Lehké hojení</line>
+<line id="212">Oslepující jiskra</line>
+
+<line id="213">Oslepující paprsek</line>
+<line id="214">Oslepující bouře</line>
+<line id="215">Uspávací výtrusy</line>
+<line id="216">Trnová past</line>
+<line id="217">Odstranění pasti</line>
+
+<line id="218">VYMAZáNO</line>
+<line id="219">Léčivé opojení</line>
+<line id="220">Léčivá slepota</line>
+<line id="221">Léčivá otrava</line>
+<line id="222">Houbovitost</line>
+
+<line id="223">Světlo</line>
+<line id="224"></line>
+<line id="225"></line>
+<line id="226"></line>
+<line id="227"></line>
+
+<line id="228"></line>
+<line id="229"></line>
+<line id="230"></line>
+<line id="231"></line>
+<line id="232"></line>
+
+	*** Spell names for class 1 ***
+
+<line id="233">Regenerace</line>
+<line id="234">Výhled na mapě</line>
+<line id="235">životabudič</line>
+<line id="236">Teleport</line>
+<line id="237">Hojení</line>
+
+<line id="238">Rychlý ústup</line>
+<line id="239">VYMAZáNO</line>
+<line id="240">VYMAZáNO</line>
+<line id="241">Hněv Bohyně</line>
+<line id="242">Dráždění</line>
+
+<line id="243">Zotavení se</line>
+<line id="244"></line>
+<line id="245"></line>
+<line id="246"></line>
+<line id="247"></line>
+
+<line id="248"></line>
+<line id="249"></line>
+<line id="250"></line>
+<line id="251"></line>
+<line id="252"></line>
+
+<line id="253"></line>
+<line id="254"></line>
+<line id="255"></line>
+<line id="256"></line>
+<line id="257"></line>
+
+<line id="258"></line>
+<line id="259"></line>
+<line id="260"></line>
+<line id="261"></line>
+<line id="262"></line>
+
+	*** Spell names for class 2 ***
+
+<line id="263">Berserk</line>
+<line id="264">Zahnat démona</line>
+<line id="265">Zahnat démony</line>
+<line id="266">Démonní exodus</line>
+<line id="267">Malá ohnivá koule</line>
+
+<line id="268">Magický štít</line>
+<line id="269">Hojení</line>
+<line id="270">Nahlodávání</line>
+<line id="271">šok</line>
+<line id="272">Panika</line>
+
+<line id="273">VYMAZáNO</line>
+<line id="274"></line>
+<line id="275"></line>
+<line id="276"></line>
+<line id="277"></line>
+
+<line id="278"></line>
+<line id="279"></line>
+<line id="280"></line>
+<line id="281"></line>
+<line id="282"></line>
+
+<line id="283"></line>
+<line id="284"></line>
+<line id="285"></line>
+<line id="286"></line>
+<line id="287"></line>
+
+<line id="288"></line>
+<line id="289"></line>
+<line id="290"></line>
+<line id="291"></line>
+<line id="292"></line>
+
+	*** Spell names for class 3 ***
+
+<line id="293">Ohnivá koule</line>
+<line id="294">úder blesku</line>
+<line id="295">Ohnivý déšť</line>
+<line id="296">Hrom</line>
+<line id="297">Ohnivý pozdrav</line>
+
+<line id="298">Hromobití</line>
+<line id="299">Blesková past</line>
+<line id="300">Velká blesková past</line>
+<line id="301">Blesková mina</line>
+<line id="302">Velká blesková mina</line>
+
+<line id="303">Kradení života</line>
+<line id="304">Kradení magie</line>
+<line id="305">Osobní ochrana</line>
+<line id="306">Pohled Kamulosův</line>
+<line id="307">Odstranění pasti</line>
+
+<line id="308"></line>
+<line id="309"></line>
+<line id="310"></line>
+<line id="311"></line>
+<line id="312"></line>
+
+<line id="313"></line>
+<line id="314"></line>
+<line id="315"></line>
+<line id="316"></line>
+<line id="317"></line>
+
+<line id="318"></line>
+<line id="319"></line>
+<line id="320"></line>
+<line id="321"></line>
+<line id="322"></line>
+
+	*** Spell names for class 4 ***
+
+	UNUSED
+<line id="323"></line>
+<line id="324"></line>
+<line id="325"></line>
+<line id="326"></line>
+<line id="327"></line>
+
+<line id="328"></line>
+<line id="329"></line>
+<line id="330"></line>
+<line id="331"></line>
+<line id="332"></line>
+
+<line id="333"></line>
+<line id="334"></line>
+<line id="335"></line>
+<line id="336"></line>
+<line id="337"></line>
+
+<line id="338"></line>
+<line id="339"></line>
+<line id="340"></line>
+<line id="341"></line>
+<line id="342"></line>
+
+<line id="343"></line>
+<line id="344"></line>
+<line id="345"></line>
+<line id="346"></line>
+<line id="347"></line>
+
+<line id="348"></line>
+<line id="349"></line>
+<line id="350"></line>
+<line id="351"></line>
+<line id="352"></line>
+
+	*** Spell names for class 5 ***
+
+<line id="353">Panika</line>
+<line id="354">Jedovatý vánek</line>
+<line id="355">Dráždění</line>
+<line id="356">Morový vánek</line>
+<line id="357"></line>
+
+<line id="358"></line>
+<line id="359"></line>
+<line id="360"></line>
+<line id="361"></line>
+<line id="362"></line>
+
+<line id="363"></line>
+<line id="364"></line>
+<line id="365"></line>
+<line id="366"></line>
+<line id="367"></line>
+
+<line id="368"></line>
+<line id="369"></line>
+<line id="370"></line>
+<line id="371"></line>
+<line id="372"></line>
+
+<line id="373"></line>
+<line id="374"></line>
+<line id="375"></line>
+<line id="376"></line>
+<line id="377"></line>
+
+<line id="378"></line>
+<line id="379"></line>
+<line id="380"></line>
+<line id="381"></line>
+<line id="382"></line>
+
+	*** Spell names for class 6 ***
+
+	UNUSED
+<line id="383"></line>
+<line id="384"></line>
+<line id="385"></line>
+<line id="386"></line>
+<line id="387"></line>
+
+<line id="388"></line>
+<line id="389"></line>
+<line id="390"></line>
+<line id="391"></line>
+<line id="392"></line>
+
+<line id="393"></line>
+<line id="394"></line>
+<line id="395"></line>
+<line id="396"></line>
+<line id="397"></line>
+
+<line id="398"></line>
+<line id="399"></line>
+<line id="400"></line>
+<line id="401"></line>
+<line id="402"></line>
+
+<line id="403"></line>
+<line id="404"></line>
+<line id="405"></line>
+<line id="406"></line>
+<line id="407"></line>
+
+<line id="408"></line>
+<line id="409"></line>
+<line id="410"></line>
+<line id="411"></line>
+<line id="412"></line>
+
+	*** Magic spell selector messages ***
+
+<line id="423">{INK 006}Nemůže být vyvoláno tady a teď!</line>
+<line id="424">Potřebuje %u magických bodů</line>
+<line id="426">{INK 006}Nemá dostatek sil na vyvolání tohoto kouzla!</line>
+<line id="427">{INK 006}Potřebuje %u MB a %u žB</line>
+
+
+	*** Combat messages ***
+
+<line id="433">{INK 006}Dalekonosná zbraň nemá munici!</line>
+<line id="434">Na koho zaútočit?</line>
+<line id="435">{INK 006}K útoku nejsou cíle!</line>
+<line id="436">{INK 006}V dosahu nejsou cíle!</line>
+<line id="441">Kam se přesunout?</line>
+<line id="442">{INK 006}Není kam se přesunout!</line>
+<line id="443">{INK 006}Přesun je zablokován!</line>
+<line id="444">{COMB}{NAME} se přesunuje.</line>
+<line id="445">{COMB}{NAME} utíká!</line>
+<line id="446">{COMB}{NAME} útočí na {VICT}{NAME} s {WEAP}!</line>
+<line id="447">{VICT}{NAME} nemůže být zraněn!</line>
+<line id="448">útok odvrácen!</line>
+<line id="449">{COMB}{NAME} provedl kritický zásah!</line>
+<line id="450">{VICT}{NAME} to dostal za {DAMG}!</line>
+<line id="451">Nedosaženo žádné poškození!</line>
+<line id="452">{COMB}{NAME} minul {HIS } oběť!</line>
+<line id="453">{COMB}{NAME} minul!</line>
+<line id="454">{COMB}{NAME} spotřebovat {HIS } střelivo!</line>
+<line id="455">{COMB}{NAME} útočí na {VICT}{NAME}!</line>
+<line id="414">{COMB}{NAME} spustil past!</line>
+<line id="736">%s je zničen!</line>
+
+
+	*** Magic ***
+
+<line id="87">Na kterého člena zakouzlit?</line>
+<line id="88">Na kterou nestvůru zakouzlit?</line>
+<line id="89">Na kterou řadu nestvůr zakouzlit?</line>
+<line id="90">Na který předmět zakouzlit?</line>
+<line id="91">Kterým předmětem zakouzlit?</line>
+<line id="92">%s kouzlí %s!</line>
+<line id="93">{INK 006}Toto není magický předmět!</line>
+<line id="94">{INK 006}Předmět nemá dostatek prostředků.</line>
+<line id="133">Na který taktický čtverec zakouzlit?</line>
+<line id="134">%s kouzlí %s s %s!</line>
+<line id="428">Koho teleportovat?</line>
+<line id="429">Kam teleportovat?</line>
+<line id="721">Tato nestvůra nemůže být teleportována!</line>
+<line id="722">Cíl teleportování je již obsazen!</line>
+<line id="600">{INK 006}Toto kouzlo účinkuje pouze na 3D mapě!</line>
+<line id="413">{INK 006}Nikdo není unaven!</line>
+<line id="731">%s zařídil kompletní odklonění kozla!</line>
+<line id="418">%s nebyl schopen odklonit kouzlo!</line>
+<line id="630">%s zařídil částečné odklonění kouzla!</line>
+<line id="774">Toto kouzlo neúčinkuje na %s!</line>
+<line id="725">{SUBJ}{NAME} použil životní body na kouzlení!</line>
+<line id="698">{COMB}{NAME}'s kouzlo nikoho nezasáhlo!</line>
+
+
+	*** Requesters ***
+
+<line id="64">OK</line>
+<line id="695">Zavřít okno</line>
+<line id="201">Zadej číslo:</line>
+<line id="507">Zadej slovo:</line>
+<line id="60">Ano</line>
+<line id="61">Ne</line>
+
+
+	*** Dialogue ***
+
+<line id="508">{INK 002}"Parta se zdá být kompletní!"</line>
+<line id="496">Který předmět nabídnout?</line>
+<line id="511">{INK 006}Toto je důležitý předmět!</line>
+<line id="497">{INK 002}"Nemohu o tom nic říci."</line>
+<line id="498">{INK 002}"Nemohu ti o tom nic říci, Tome."</line>
+<line id="499">{INK 002}"Tento předmět mne nezajímá."</line>
+<line id="501">{INK 002}"Děkuji, ale myslím, že se k vám raději nepřipojím."</line>
+<line id="502">{INK 002}"Dobře. Odejdu."</line>
+<line id="503">{INK 002}"Sbohem!"</line>
+<line id="504">{INK 002}"Uvidíme se, Tome."</line>
+<line id="505">{INK 002}"Zdravím."</line>
+<line id="506">{INK 002}"Ahoj, Tome. Co se děje?"</line>
+<line id="509">{INK 002}"Nerozumím tomu."</line>
+<line id="510">{INK 002}"Nerozumím tomu, Tome."</line>
+<line id="491">Co víš o...?</line>
+<line id="492">Co víš o tomto předmětu...?</line>
+<line id="493">Rád by ses k nám připojil?</line>
+<line id="494">Rád bych vás opustil.</line>
+<line id="495">Slušnej pokec!</line>
+<line id="500">Jaké je tvé povolání?</line>
+
+
+	*** Chest screen ***
+
+<line id="514">Opustit obrazovku truhly</line>
+<line id="530">Truhla</line>
+<line id="516">Nemůžeš to dát nazpět!</line>
+
+
+	*** Door screen ***
+
+<line id="521">Opustit obrazovku dveří</line>
+
+
+	*** Apres combat screen ***
+
+<line id="547">Opustit bojovou obrazovku</line>
+<line id="548">Předměty zanechány vzadu</line>
+<line id="549">Chceš zde nechat zbytek předmětů?</line>
+<line id="550">{INK 006}Vyhodil jsi důležitý předmět!</line>
+
+
+	*** After combat ***
+
+<line id="551">Nikdo nezískal žádnou zkušenost.</line>
+<line id="552">Každý z party získal %u bodů zkušenosti.</line>
+
+
+	*** Places (shops etc.) ***
+
+<line id="553">Zde nejsou žádné výcvikové body nazbyt.</line>
+<line id="554">{INK 002}"Není zde nic, co bych tě mohl naučit."</line>
+<line id="556">{INK 002}"Kolika body chceš zvýšit svou dovednost?"</line>
+<line id="558">{LEAD}{NAME} dostává intensivní výcvik.</line>
+<line id="563">{INK 002}"Kdo z vás ode mne potřebuje uzdravit?"</line>
+<line id="559">{INK 002}"Tato osoba nepotřebuje uzdravit!"</line>
+<line id="560">{INK 002}"Kolik životních bodů chceš, abych ti vyléčil?"</line>
+<line id="561">{SUBJ}{NAME}'s životní body byly obnoveny.</line>
+<line id="745">{INK 002}"Který prokletý předmět chceš odstranit?"</line>
+<line id="718">{INK 002}"Tato osoba nemá žádný prokletý předmět!"</line>
+<line id="744">{INK 002}"Nikdo z vás nemá žádný prokletý předmět!"</line>
+<line id="562">{SUBJ}{NAME}'s prokletý předmět byl odstraněn!</line>
+<line id="564">{INK 002}"Který předmět chceš, abych prozkoumal?"</line>
+<line id="565">{INK 006}Tento předmět už byl prozkoumán!</line>
+<line id="566">Předmět byl prozkoumán, informace je nyní dostupná.</line>
+<line id="569">Který předmět chceš, abych dobyl?</line>
+<line id="567">{INK 006}Tento předmět už byl plně dobit!</line>
+<line id="568">{INK 006}Tento předmět nemůže být dále dobit!</line>
+<line id="570">Kolik prostředků obnovit?</line>
+<line id="571">Tento předmět byl dobyt magickou energií.</line>
+<line id="588">{INK 002}"Kolik zásob chceš koupit?"</line>
+<line id="589">Zásoby byly koupeny.</line>
+<line id="591">Který předmět opravit?</line>
+<line id="590">{INK 006}Tento předmět nebyl zničen!</line>
+<line id="592">Předmět byl opraven.</line>
+<line id="420">Opustit kupeckou obrazovku</line>
+<line id="572">Kupec</line>
+<line id="575">Kolik předmětů koupit?</line>
+<line id="576">Předměty byly koupeny.</line>
+<line id="578">{INK 006}Toto je příliš drahé!</line>
+<line id="580">{INK 006}{INVE}{NAME} nemá dostatek místa!</line>
+<line id="581">{INK 006}Kupec nemá dostatek skladovacích prostor!</line>
+<line id="582">Kolik předmětů prodat?</line>
+<line id="583">Předměty byly prodány.</line>
+<line id="587">{INK 006}Toto je zbytečný předmět.</line>
+<line id="751">{INK 006}Nemůžeš prodat zničené předměty!</line>
+<line id="573">Koupit</line>
+<line id="557">{INK 002}"Bude to %d.%u mincí. Chceš to koupit?"</line>
+<line id="584">{INK 002}"Dám ti za to %d.%u mincí. Chceš to prodat?"</line>
+<line id="555">Parta nemá dostatek peněz!</line>
+<line id="585">Zlato(všechno)</line>
+<line id="586">Celkem zlata: %ld.%u</line>
+<line id="602">{LEAD}{NAME} a {HIS } společníci byli odvedeni do svých pokojů, kde strávili klidnou noc.</line>
+<line id="608">Koho ozdravit?</line>
+<line id="625">{SUBJ}{NAME} je uzdraven!</line>
+<line id="626">{INK 002}"Nikdo z party nepotřebuje ozdravit!"</line>
+<line id="628">{INK 002}"Nikdo z tvé party se nemůže naučit můj druh magie."</line>
+<line id="631">{INK 002}"Které kouzlo se naučit?"</line>
+
+
+	*** Camp screen ***
+
+<line id="603">Nikdo v téhle partě není unaven!</line>
+<line id="604">Parta odpočívala až do konce.</line>
+<line id="605">Parta odpočívala osm hodin.</line>
+<line id="606">{SUBJ}{NAME} se nemůže zotavit. {HE  } nemá dostatek jídla!</line>
+
+
+	*** Conditions ***
+
+<line id="609">V bezvědomí</line>
+<line id="610">Otráven</line>
+<line id="611">Nemocen</line>
+<line id="612">Vyčerpán</line>
+<line id="613">Paralyzován</line>
+<line id="614">Na útěku</line>
+<line id="615">Opit</line>
+<line id="616">Slepý</line>
+<line id="617">Panikařící</line>
+<line id="618">Spící</line>
+<line id="619">šílený</line>
+<line id="620">Podrážděný</line>
+<line id="621"></line>
+<line id="622"></line>
+<line id="623"></line>
+<line id="624"></line>
+
+
+	*** Left Inventory 1 ***
+
+<line id="632">{INVE}{NAME} ({SEXC}), % let starý, {RACE}, {CLAS}, úroveň %d.</line>
+<line id="633">životní body</line>
+<line id="634">Magické body</line>
+<line id="667">Zkušenostní body</line>
+<line id="668">Výcvikové body</line>
+
+
+	*** Left Inventory 2 ***
+
+<line id="647">Vlastnosti</line>
+<line id="648">Dovednosti</line>
+
+
+	*** Left Inventory 3 ***
+
+<line id="661">Podmínky</line>
+<line id="662">Jazyky</line>
+<line id="669">Dočasná kouzla</line>
+<line id="673">%d%% (%u hodin)</line>
+<line id="13">Bojové pozice</line>
+<line id="666">Změnit bojové pozice</line>
+<line id="69">Vyměnit %s a %s</line>
+<line id="674">Pozice %s</line>
+
+
+	*** Attributes ***
+
+<line id="635">Síla</line>
+<line id="636">Inteligence</line>
+<line id="637">Obratnost</line>
+<line id="638">Rychlost</line>
+<line id="639">Odolnost</line>
+<line id="640">štěstí</line>
+<line id="641">Magická odolnost</line>
+<line id="642">Magické nadání</line>
+
+
+	*** Skills ***
+
+<line id="643">Boj na blízko</line>
+<line id="644">Boj na dálku</line>
+<line id="645">Kritické zásahy</line>
+<line id="646">Páčení zámků</line>
+
+
+	*** Attribute abbreviations ***
+
+<line id="649">SíL</line>
+<line id="650">INT</line>
+<line id="651">OBR</line>
+<line id="652">RYC</line>
+<line id="653">ODO</line>
+<line id="654">šTě</line>
+<line id="655">M-O</line>
+<line id="656">M-N</line>
+
+
+	*** Skill abbreviations ***
+
+<line id="657">BNB</line>
+<line id="658">BND</line>
+<line id="659">KRZ</line>
+<line id="660">P-Z</line>
+
+
+	*** Game languages ***
+
+<line id="663">Terran</line>
+<line id="664">Iskai</line>
+<line id="665">Keltský</line>
+
+
+	*** Temporary spell names ***
+
+<line id="670">útok</line>
+<line id="671">Ochrana</line>
+<line id="672">Protimagie</line>
+
+
+	*** Examine item 1 window ***
+
+<line id="683">Více...</line>
+<line id="694">Více informací</line>
+<line id="676">Druh</line>
+<line id="675">Váha</line>
+<line id="684">%d g</line>
+<line id="681">Poškození</line>
+<line id="682">Ochrana</line>
+
+
+	*** Examine item 2 window ***
+
+<line id="685">Dovednost tax 1</line>
+<line id="686">Dovednost tax 2</line>
+<line id="687">žádný</line>
+<line id="688">žB-Maximální bonus</line>
+<line id="689">MB-Maximální bonus</line>
+<line id="690">Bonus z vlastností</line>
+<line id="691">Bonus z dovedností</line>
+<line id="692">Kouzlo</line>
+<line id="693">Očarování</line>
+
+
+	*** Main menu ***
+
+<line id="700">Hlavní nabídka</line>
+<line id="702">Nová hra</line>
+<line id="703">Pokračovat ve hře</line>
+<line id="704">Obnovit hru</line>
+<line id="705">Uložit hru</line>
+<line id="706">Možnosti</line>
+<line id="707">Shlédnout intro</line>
+<line id="708">Credits</line>
+<line id="709">Konec hry</line>
+<line id="710">Skutečně chceš skončit?</line>
+<line id="711">Kterou uloženou hru chceš obnovit?</line>
+<line id="712">Do které pozice uložit?</line>
+<line id="713">Skutečně chceš přepsat tuto uloženou hru?</line>
+<line id="714">Napiš, prosím, název pro tuto uloženou hru:</line>
+<line id="715">Skutečně chceš začít novou hru?</line>
+<line id="716">(Empty position)</line>
+<line id="717">Nebyly nalezeny žádné uložené hry!</line>
+<line id="775">{INK 006}{BIG }{CNTR} Nedostatek místa na pevném disku!</line>
+
+
+	*** Options ***
+
+<line id="741">Hlasitost hudby</line>
+<line id="742">Hlasitost FX</line>
+<line id="743">Velikost 3D okna</line>
+<line id="415">úroveň detailů v boji</line>
+<line id="416">Rychlost textů v boji</line>
+
+
+	*** Special item activation texts ***
+
+<line id="753">Kompas byl aktivován!</line>
+<line id="754">Nestvůří oko bylo aktivováno!</line>
+<line id="756">Hodiny byly aktivovány!</line>
+
+
+	*** Combat effect texts ***
+
+<line id="419">%s byl magicky urychlen!</line>
+<line id="737">%s magické urychlení skončilo!</line>
+<line id="739">%s je zmrazen!</line>
+<line id="740">%s již není více zmrazen!</line>
+<line id="627">%s byl oslepen!</line>
+<line id="629">%s není více slepý!</line>
+<line id="422">%s propadl berserku!</line>
+<line id="738">%s již není více pod vlivem berserku!</line>
+
+
+	*** Condition texts ***
+
+<line id="762">{INK 006}{SUBJ}{NAME} je v bezvědomí!</line>
+<line id="763">{INK 006}{SUBJ}{NAME} byl otráven!</line>
+<line id="764">{INK 006}{SUBJ}{NAME} je nemocen!</line>
+<line id="765">{INK 006}{SUBJ}{NAME} je vyčerpaný!</line>
+<line id="766">{INK 006}{SUBJ}{NAME} není schopen pohybu!</line>
+<line id="767">{INK 006}{SUBJ}{NAME} utíká!</line>
+<line id="768">{INK 006}{SUBJ}{NAME} je opilý!</line>
+<line id="769">{INK 006}{SUBJ}{NAME} byl oslepen!</line>
+<line id="770">{INK 006}{SUBJ}{NAME} panikaří!</line>
+<line id="771">{INK 006}{SUBJ}{NAME} spí!</line>
+<line id="772">{INK 006}{SUBJ}{NAME} zešílel!</line>
+<line id="773">{INK 006}{SUBJ}{NAME} je podrážděn!</line>
+
+
+	*** Various messages ***
+
+<line id="759">{INK 006}Je příliš zraněn, aby byl vyléčen!</line>
+<line id="761">{INK 006}{CNTR}{BIG }{SUBJ}{NAME} je nemocen,^^{NORS}a {HE  } cítí, že {HIS } tělo bylo trvale poškozeno!</line>
+<line id="417">{INK 006}{CNTR}{BIG }Smrt ukončila cestu.^^{NORS}Každý v partě je smrtelně zraněn. Dříve či později zemřou.</line>
+<line id="421"> Výchozí obrazovka</line>
+<line id="167">Bod byl označen!</line>
+<line id="699">{INK 002}{SUBJ}{NAME} je příliš přetížen!</line>
+<line id="720">{SUBJ}{NAME} měl štěstí a unikl pasti!</line>
+<line id="127">{INK 006}Je v bezvědomí!</line>
+<line id="732">Všichni jsou unaveni!</line>
+<line id="733">Všichni jsou vyčerpáni!</line>
+<line id="734">{INK 006}{CNTR}{BIG }útok!</line>
+<line id="748">{INK 002}{CNTR}{BIG }%s dosáhl úrovně %u!^{NORS}^životní body: %u^Magické body: %u^Dodatečné výcvikové body: %u^útoky za kolo: %u</line>
+<line id="749">{INK 002}{CNTR}{BIG }%s dosáhl úrovně %u!^{NORS}^život body: %u^Dodatečné výcvikové body: %u^útoky za kolo : %u</line>
+<line id="750">%s dosáhl maximální úrovně charakteru!</line>
+
+
+	*** UNUSED ***
+<line id="128">Může být použit:</line>
+<line id="129"></line>
+<line id="758"></line>
+
+
+</text>
