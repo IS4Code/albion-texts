@@ -1,0 +1,1056 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<text xml:space="preserve">	ALBION System texts (GERMAN)
+
+	*** Party member portraits ***
+
+<line id="0">%s (LP:%d, SP:%d)</line>
+<line id="593">%s an %s geben</line>
+<line id="594">Gold %s geben</line>
+<line id="595">Nahrung %s geben</line>
+<line id="596">{INK 006}%s hat keine Plätze mehr frei!</line>
+<line id="597">{INK 006}%s kann soviel Gold nicht tragen!</line>
+<line id="598">{INK 006}%s kann soviel Rationen nicht tragen!</line>
+
+
+	*** Party member pop-up menu ***
+
+<line id="70">Charakterbildschirm</line>
+<line id="10">Zaubern</line>
+<line id="4">Zum Anführer machen</line>
+<line id="5">Ansprechen</line>
+<line id="701">Toggle</line>
+<line id="425">{INK 006}Kennt noch keine Zauber!</line>
+<line id="512">{INK 006}Kann im Moment nicht sprechen!</line>
+<line id="735">{INK 006}Mellthas kann nicht reden.</line>
+<line id="542">{INK 006}Kann jetzt nicht die Party führen!</line>
+<line id="757">{INK 006}Dieses Gepäck ist jetzt nicht zugänglich!</line>
+
+
+	*** New active member selector ***
+
+<line id="545">Wer soll nun die Party führen?</line>
+<line id="544">{INK 006}Diese Person kann nicht die Party führen!</line>
+<line id="541">{INK 006}Jemand MUSS die Party führen!</line>
+
+
+	*** Map pop-up menu ***
+
+<line id="6">Ansprechen</line>
+<line id="7">Anschauen</line>
+<line id="8">Manipulieren</line>
+<line id="9">Gegenstand benutzen</line>
+<line id="74">Aufnehmen</line>
+<line id="11">{INK 002}Zu Fuá gehen</line>
+<line id="130">{INK 002}Übersichtskarte</line>
+<line id="12">{INK 002}Rasten</line>
+<line id="723">{INK 002}Warten</line>
+<line id="696">{INK 002}Hauptmenü</line>
+(this one also appears in the combat pop-up menu)
+<line id="14">Umgebung</line>
+<line id="513">Person</line>
+<line id="489">{INK 006}Kann nicht soviel tragen!</line>
+<line id="490">{INK 006}Hat keine Plätze mehr frei!</line>
+<line id="601">{INK 006}Es ist hier zu gefährlich!</line>
+<line id="430">Welchen Gegenstand benutzen?</line>
+<line id="431">Dieser Gegenstand bewirkt hier nichts.</line>
+<line id="432">Dieses Wort bewirkt nichts.</line>
+<line id="532">{INK 006}Zu weit weg.</line>
+<line id="533">{INK 006}Zu weit weg zum ansprechen.</line>
+<line id="534">{INK 006}Zu weit weg zum berühren.</line>
+<line id="535">{INK 006}Nicht erreichbar.</line>
+<line id="536">{INK 006}Zu weit weg.</line>
+<line id="537">{INK 006}Gesperrt.</line>
+<line id="539">Diese Person schläft!</line>
+<line id="540">Diese Person spricht eine Sprache, die {LEAD}{NAME} nicht kennt.</line>
+<line id="543">Diese Personen sprechen nicht die gleiche Sprache.</line>
+<line id="724">Wieviele Stunden warten?</line>
+<line id="726">Wirklich rasten?</line>
+
+
+	*** Inventory item pop-up menu ***
+
+<line id="15">Wegwerfen</line>
+<line id="16">Spruch lernen</line>
+<line id="17">Untersuchen</line>
+<line id="18">Trinken</line>
+<line id="19">Spruch aktivieren</line>
+<line id="20">Lesen</line>
+<line id="131">Aktivieren</line>
+<line id="574">Verkaufen</line>
+<line id="607">Benutzen</line>
+<line id="760">{INK 006}Nicht im Kampf!</line>
+<line id="752">%s hat keinen Platz frei!</line>
+
+
+	*** Inventory screen ***
+
+<line id="21">Charakterbildschirm verlassen</line>
+<line id="47">Rucksack</line>
+<line id="54">Charakterbildschirm 1</line>
+<line id="55">Charakterbildschirm 2</line>
+<line id="56">Charakterbildschirm 3</line>
+<line id="57">I</line>
+<line id="58">II</line>
+<line id="59">III</line>
+<line id="677">Schaden : %d</line>
+<line id="678">Schutz : %d</line>
+<line id="679">Gewicht : %d Kg</line>
+<line id="680">Getragenes Gewicht : %ld von %ld g</line>
+
+
+	*** Items ***
+
+<line id="22">%s</line>
+<line id="517">Ablegen %s</line>
+<line id="518">Vertausche %s mit %s</line>
+<line id="519">{INK 006}Dieser Platz ist belegt!</line>
+<line id="520">Hinzufügen</line>
+<line id="577">{INK 006}%s (%d.%u gold)</line>
+<line id="579">%s (%d.%u gold)</line>
+
+
+	*** Item types ***
+
+<line id="23">Rüstung</line>
+<line id="24">Helm</line>
+<line id="25">Schuhe</line>
+<line id="26">Schild</line>
+<line id="27">Nahkampfwaffe</line>
+<line id="28">Fernkampfwaffe</line>
+<line id="29">Munition</line>
+<line id="30">Schriftstück</line>
+<line id="31">Spruchaufzeichnung</line>
+<line id="32">Getränk</line>
+<line id="33">Amulett</line>
+<line id="34">Brosche</line>
+<line id="35">Ring</line>
+<line id="36">Wertgegenstand</line>
+<line id="37">Werkzeug</line>
+<line id="38">Schlüssel</line>
+<line id="39">Normal</line>
+<line id="40">Magischer Gegenstand</line>
+<line id="41">Spezieller Gegenstand</line>
+<line id="42">Transport</line>
+<line id="43">Dietrich</line>
+<line id="44">Leucht-Gegenstand</line>
+<line id="45"></line>
+<line id="46"></line>
+
+
+	*** Gold / food ***
+
+<line id="48">%d.%u Gold</line>
+<line id="49">%d Rationen</line>
+<line id="51">Gold</line>
+<line id="53">Rationen</line>
+<line id="50">Wegwerfen</line>
+<line id="727">Wieviel Gold wegwerfen?</line>
+<line id="728">Das Gold wirklich wegwerfen?</line>
+<line id="729">Wieviele Rationen wegwerfen?</line>
+<line id="730">Die Rationen wirklich wegwerfen?</line>
+<line id="52">Wieviel Gold nehmen?</line>
+<line id="515">Wieviel Rationen nehmen?</line>
+
+
+	*** Locks ***
+
+<line id="71">Schloá</line>
+<line id="72">Schloá knacken</line>
+<line id="73">Aufschlieáen</line>
+<line id="522">{LEAD}{NAME} hat das Schloá geknackt!</line>
+<line id="523">Dieses Schloá kann nicht geknackt werden!</line>
+<line id="524">{LEAD}{NAME} hat eine Falle ausgelöst, konnte ihr aber ausweichen!</line>
+<line id="525">{LEAD}{NAME} hat eine Falle ausgelöst!</line>
+<line id="526">{LEAD}{NAME} hat das Schloá geöffnet!</line>
+<line id="527">{LEAD}{NAME} hat das Schloá mit einen Dietrich geöffnet!</line>
+<line id="528">Das ist nicht der richtige Schlüssel.</line>
+<line id="529">Damit kann man das Schloá nicht öffnen.</line>
+<line id="538">{LEAD}{NAME} schafft es nicht, das Schloá zu knacken!</line>
+
+
+	*** High-level text commands ***
+
+<line id="75">er</line>
+<line id="76">sie</line>
+<line id="77">es</line>
+
+<line id="78">ihn</line>
+<line id="79">ihr</line>
+<line id="80">es</line>
+
+<line id="81">sein</line>
+<line id="82">ihr</line>
+<line id="83">sein</line>
+
+<line id="84">Mann</line>
+<line id="85">Frau</line>
+<line id="86">Wesen</line>
+
+// POST-RELEASE CHANGE 1.38
+<line id="758">ihn</line>
+<line id="776">ihr</line>
+<line id="777">es</line>
+
+	*** Race names ***
+
+<line id="456">Erdenmensch</line>
+<line id="457">Iskai</line>
+<line id="458">Kelte</line>
+<line id="459">Kenget Kamulos</line>
+
+<line id="460">Dji Cantos</line>
+<line id="461">Mahino</line>
+<line id="462">Dekadenter</line>
+<line id="463">Umajo</line>
+
+<line id="464"></line>
+<line id="465"></line>
+<line id="466"></line>
+<line id="467"></line>
+
+<line id="468"></line>
+<line id="469"></line>
+<line id="470"></line>
+<line id="471">Monster</line>
+
+
+	*** Class names ***
+
+<line id="95">Pilot</line>
+<line id="96">Wissenschaftler</line>
+<line id="97">Krieger</line>
+<line id="98">Dji-Kas Magierin</line>
+
+<line id="99">Druide</line>
+<line id="100">Erleuchtete</line>
+<line id="101">Techniker</line>
+<line id="102"></line>
+
+<line id="103">Oqulo Kamulos</line>
+<line id="104">Kriegerin</line>
+<line id="105"></line>
+<line id="106"></line>
+
+<line id="107"></line>
+<line id="108"></line>
+<line id="109"></line>
+<line id="110"></line>
+
+<line id="111"></line>
+<line id="112"></line>
+<line id="113"></line>
+<line id="114"></line>
+
+<line id="115"></line>
+<line id="116"></line>
+<line id="117"></line>
+<line id="118"></line>
+
+<line id="119"></line>
+<line id="120"></line>
+<line id="121"></line>
+<line id="122"></line>
+
+<line id="123"></line>
+<line id="124"></line>
+<line id="125"></line>
+<line id="126"></line>
+
+
+	*** Racist insults ***
+
+	UNUSED
+<line id="472"></line>
+<line id="473"></line>
+<line id="474"></line>
+<line id="475"></line>
+
+<line id="476"></line>
+<line id="477"></line>
+<line id="478"></line>
+<line id="479"></line>
+
+<line id="480"></line>
+<line id="481"></line>
+<line id="482"></line>
+<line id="483"></line>
+
+<line id="484"></line>
+<line id="485"></line>
+<line id="486"></line>
+<line id="487"></line>
+
+
+	*** Class insults ***
+
+	UNUSED
+<line id="135"></line>
+<line id="136"></line>
+<line id="137"></line>
+<line id="138"></line>
+
+<line id="139"></line>
+<line id="140"></line>
+<line id="141"></line>
+<line id="142"></line>
+
+<line id="143"></line>
+<line id="144"></line>
+<line id="145"></line>
+<line id="146"></line>
+
+<line id="147"></line>
+<line id="148"></line>
+<line id="149"></line>
+<line id="150"></line>
+
+<line id="151"></line>
+<line id="152"></line>
+<line id="153"></line>
+<line id="154"></line>
+
+<line id="155"></line>
+<line id="156"></line>
+<line id="157"></line>
+<line id="158"></line>
+
+<line id="159"></line>
+<line id="160"></line>
+<line id="161"></line>
+<line id="162"></line>
+
+<line id="163"></line>
+<line id="164"></line>
+<line id="165"></line>
+<line id="166"></line>
+
+
+	*** Automapper icons (2...17) ***
+
+<line id="168">Rätselmund</line>
+<line id="169">Teleporter</line>
+<line id="170">Spinner</line>
+<line id="171">Falle</line>
+<line id="172">Falltür</line>
+<line id="173">Spezial</line>
+<line id="174">Monster</line>
+<line id="175">Geschlossene Tür</line>
+<line id="176">Offene Tür</line>
+<line id="177">Händler</line>
+<line id="178">Kneipe</line>
+<line id="179">Geschlossene Kiste</line>
+<line id="180">Exit</line>
+<line id="181">Offene Kiste</line>
+<line id="182">Gerümpel</line>
+<line id="183">Person</line>
+  (Message 184 in this sequence is the Goto-point, which is a special case.)
+<line id="185">Event</line>
+
+
+	*** Inventory messages ***
+
+<line id="184">Hat keine Ladungen mehr!</line>
+<line id="599">Falsche Klasse!</line>
+<line id="186">Falscher Spruchbereich!</line>
+<line id="187">Keiner kennt diese Spruchklasse!</line>
+<line id="188">Dieser Spruch ist schon bekannt!</line>
+<line id="189">Spruchstufe ist zu hoch!</line>
+<line id="190">{SUBJ}{NAME} hat den Spruch gelernt!</line>
+<line id="191">Gegenstand ist kaputtgegangen!</line>
+<line id="192">Wieviele Gegenstände wegwerfen?</line>
+<line id="193">{INK 006}Dieser Gegenstand ist wichtig!</line>
+<line id="62">Wirklich wegwerfen?</line>
+<line id="531">Wirklich wegwerfen?</line>
+<line id="63">{INK 006}Dieser Gegenstand ist verflucht!</line>
+<line id="65">{INK 006}Kann nicht während des Kampfes entfernt werden!</line>
+<line id="66">Wieviele Gegenstände aufnehmen?</line>
+<line id="67">{INK 006}Kann nicht während des Kampfes entfernt werden!</line>
+<line id="68">{INK 006}Kann nicht am Körper getragen werden!</line>
+<line id="194">{INK 006}Dieser Gegenstand ist kaputt!</line>
+<line id="195">{INK 006}Falsche Klasse, um Gegenstand zu benutzen!</line>
+<line id="196">{INK 006}Falsches Geschlecht für diesen Gegenstand!</line>
+<line id="197">{INK 006}Nicht genügend Hände frei!</line>
+<line id="132">{INK 006}Dieser Gegenstand existiert schon!</line>
+<line id="719">Wer soll das trinken?</line>
+
+
+	*** Tactical window ***
+
+<line id="697">Kampf</line>
+<line id="746">Nichts tun</line>
+<line id="1">Angreifen</line>
+<line id="2">Bewegen</line>
+<line id="3">Magie anwenden</line>
+<line id="198">Flüchten</line>
+<line id="199">Magischer Gegenstand</line>
+<line id="200">Party vorrücken</line>
+<line id="488">{INK 002}Beobachten</line>
+<line id="546">{INK 002}Kampf beenden</line>
+<line id="202">{INK 002}Runde starten!</line>
+<line id="437">{INK 006}Kann nicht angreifen!</line>
+<line id="438">{INK 006}Kann keinen Schaden anrichten!</line>
+<line id="439">{INK 006}Kann sich nicht bewegen!</line>
+<line id="440">{INK 006}Kann nicht fliehen!</line>
+<line id="755">{INK 006}Die Party ist schon einmal vorgerückt!</line>
+
+
+	*** Spell names for class 0 ***
+
+<line id="203">Dornenschlinge</line>
+<line id="204">DELETED</line>
+<line id="205">DELETED</line>
+<line id="206">Hast</line>
+<line id="207">Lebenssicht</line>
+
+<line id="208">Frostsplitter</line>
+<line id="209">Frostkristall</line>
+<line id="210">Frostlawine</line>
+<line id="211">Leichte Heilung</line>
+<line id="212">Blendfunke</line>
+
+<line id="213">Blendstrahl</line>
+<line id="214">Blendsturm</line>
+<line id="215">Schlafsporen</line>
+<line id="216">Dornenfalle</line>
+<line id="217">Falle entfernen</line>
+
+<line id="218">DELETED</line>
+<line id="219">Heile Rausch</line>
+<line id="220">Heile Blindheit</line>
+<line id="221">Heile Vergiftung</line>
+<line id="222">Verpilzung</line>
+
+<line id="223">Licht</line>
+<line id="224"></line>
+<line id="225"></line>
+<line id="226"></line>
+<line id="227"></line>
+
+<line id="228"></line>
+<line id="229"></line>
+<line id="230"></line>
+<line id="231"></line>
+<line id="232"></line>
+
+	*** Spell names for class 1 ***
+
+<line id="233">Regeneration</line>
+<line id="234">Kartensicht</line>
+<line id="235">Lebensbringer</line>
+<line id="236">Teleport</line>
+<line id="237">Heilung</line>
+
+<line id="238">Schneller Rückzug</line>
+<line id="239">DELETED</line>
+<line id="240">DELETED</line>
+<line id="241">Zorn der Göttin</line>
+<line id="242">Irritation</line>
+
+<line id="243">Erholung</line>
+<line id="244"></line>
+<line id="245"></line>
+<line id="246"></line>
+<line id="247"></line>
+
+<line id="248"></line>
+<line id="249"></line>
+<line id="250"></line>
+<line id="251"></line>
+<line id="252"></line>
+
+<line id="253"></line>
+<line id="254"></line>
+<line id="255"></line>
+<line id="256"></line>
+<line id="257"></line>
+
+<line id="258"></line>
+<line id="259"></line>
+<line id="260"></line>
+<line id="261"></line>
+<line id="262"></line>
+
+	*** Spell names for class 2 ***
+
+<line id="263">Berserker</line>
+<line id="264">Dämon vertreiben</line>
+<line id="265">Dämonen vertreiben</line>
+<line id="266">Dämonenexodus</line>
+<line id="267">Kleiner Feuerball</line>
+
+<line id="268">Magischer Schild</line>
+<line id="269">Heilung</line>
+<line id="270">Prahlen</line>
+<line id="271">Schreck</line>
+<line id="272">Panik</line>
+
+<line id="273">DELETED</line>
+<line id="274"></line>
+<line id="275"></line>
+<line id="276"></line>
+<line id="277"></line>
+
+<line id="278"></line>
+<line id="279"></line>
+<line id="280"></line>
+<line id="281"></line>
+<line id="282"></line>
+
+<line id="283"></line>
+<line id="284"></line>
+<line id="285"></line>
+<line id="286"></line>
+<line id="287"></line>
+
+<line id="288"></line>
+<line id="289"></line>
+<line id="290"></line>
+<line id="291"></line>
+<line id="292"></line>
+
+	*** Spell names for class 3 ***
+
+<line id="293">Feuerball</line>
+<line id="294">Blitzschlag</line>
+<line id="295">Feuerregen</line>
+<line id="296">Blitzstrahl</line>
+<line id="297">Feuerhagel</line>
+
+<line id="298">Blitzsturm</line>
+<line id="299">Blitzfalle</line>
+<line id="300">Groáe Blitzfalle</line>
+<line id="301">Blitzmine</line>
+<line id="302">Groáe Blitzmine</line>
+
+<line id="303">Leben stehlen</line>
+<line id="304">Magie stehlen</line>
+<line id="305">Persönlicher Schutz</line>
+<line id="306">Kamulos Blick</line>
+<line id="307">Falle entfernen</line>
+
+<line id="308"></line>
+<line id="309"></line>
+<line id="310"></line>
+<line id="311"></line>
+<line id="312"></line>
+
+<line id="313"></line>
+<line id="314"></line>
+<line id="315"></line>
+<line id="316"></line>
+<line id="317"></line>
+
+<line id="318"></line>
+<line id="319"></line>
+<line id="320"></line>
+<line id="321"></line>
+<line id="322"></line>
+
+	*** Spell names for class 4 ***
+
+	UNUSED
+<line id="323"></line>
+<line id="324"></line>
+<line id="325"></line>
+<line id="326"></line>
+<line id="327"></line>
+
+<line id="328"></line>
+<line id="329"></line>
+<line id="330"></line>
+<line id="331"></line>
+<line id="332"></line>
+
+<line id="333"></line>
+<line id="334"></line>
+<line id="335"></line>
+<line id="336"></line>
+<line id="337"></line>
+
+<line id="338"></line>
+<line id="339"></line>
+<line id="340"></line>
+<line id="341"></line>
+<line id="342"></line>
+
+<line id="343"></line>
+<line id="344"></line>
+<line id="345"></line>
+<line id="346"></line>
+<line id="347"></line>
+
+<line id="348"></line>
+<line id="349"></line>
+<line id="350"></line>
+<line id="351"></line>
+<line id="352"></line>
+
+	*** Spell names for class 5 ***
+
+<line id="353">Panik</line>
+<line id="354">Gifthauch</line>
+<line id="355">Irritation</line>
+<line id="356">Pesthauch</line>
+<line id="357"></line>
+
+<line id="358"></line>
+<line id="359"></line>
+<line id="360"></line>
+<line id="361"></line>
+<line id="362"></line>
+
+<line id="363"></line>
+<line id="364"></line>
+<line id="365"></line>
+<line id="366"></line>
+<line id="367"></line>
+
+<line id="368"></line>
+<line id="369"></line>
+<line id="370"></line>
+<line id="371"></line>
+<line id="372"></line>
+
+<line id="373"></line>
+<line id="374"></line>
+<line id="375"></line>
+<line id="376"></line>
+<line id="377"></line>
+
+<line id="378"></line>
+<line id="379"></line>
+<line id="380"></line>
+<line id="381"></line>
+<line id="382"></line>
+
+	*** Spell names for class 6 ***
+
+<line id="383"></line>
+<line id="384"></line>
+<line id="385"></line>
+<line id="386"></line>
+<line id="387"></line>
+
+<line id="388"></line>
+<line id="389"></line>
+<line id="390"></line>
+<line id="391"></line>
+<line id="392"></line>
+
+<line id="393"></line>
+<line id="394"></line>
+<line id="395"></line>
+<line id="396"></line>
+<line id="397"></line>
+
+<line id="398"></line>
+<line id="399"></line>
+<line id="400"></line>
+<line id="401"></line>
+<line id="402"></line>
+
+<line id="403"></line>
+<line id="404"></line>
+<line id="405"></line>
+<line id="406"></line>
+<line id="407"></line>
+
+<line id="408"></line>
+<line id="409"></line>
+<line id="410"></line>
+<line id="411"></line>
+<line id="412"></line>
+
+	*** Magic spell selector messages ***
+
+<line id="423">{INK 006}Ist hier und jetzt nicht möglich!</line>
+<line id="424">Erfordert %u Spruchpunkte</line>
+<line id="426">{INK 006}Nicht stark genug für diesen Spruch!</line>
+<line id="427">{INK 006}Erfordert %u SP und %u LP</line>
+
+
+	*** Combat messages ***
+
+<line id="433">{INK 006}Keine Munition für Fernkampfwaffe!</line>
+<line id="434">Wen angreifen?</line>
+<line id="435">{INK 006}Hier kann nichts angegriffen werden!</line>
+<line id="436">{INK 006}Keine Ziele in Reichweite!</line>
+<line id="441">Wohin bewegen?</line>
+<line id="442">{INK 006}Kann nirgendwo hin!</line>
+<line id="443">{INK 006}Bewegung wurde blockiert!</line>
+<line id="444">{COMB}{NAME} bewegt sich.</line>
+<line id="445">{COMB}{NAME} flieht!</line>
+<line id="446">{COMB}{NAME} attackiert {VICT}{NAME} mit {WEAP}!</line>
+<line id="447">{VICT}{NAME} kann nicht verletzt werden!</line>
+<line id="448">Angriff wurde abgewehrt!</line>
+<line id="449">{COMB}{NAME} hat einen kritischen Treffer erzielt!</line>
+<line id="450">{VICT}{NAME} bekommt {DAMG} Schaden!</line>
+<line id="451">Kein Schaden erzielt!</line>
+<line id="452">{COMB}{NAME} verfehlt {HIS }en Gegner!</line>
+<line id="453">{COMB}{NAME} attackiert in's Leere!</line>
+<line id="454">{COMB}{NAME} hat {HIS }e Munition verbraucht!</line>
+<line id="455">{COMB}{NAME} attackiert {VICT}{NAME}!</line>
+<line id="414">{COMB}{NAME} hat eine Falle ausgelöst!</line>
+<line id="736">%s ist gebrochen!</line>
+
+
+	*** Magic ***
+
+<line id="87">Auf welche(n) Gefährten(in)?</line>
+<line id="88">Auf welches Monster richten?</line>
+<line id="89">Auf welche Reihe richten?</line>
+<line id="90">Wessen Gegenstand?</line>
+<line id="91">Auf welchen Gegenstand anwenden?</line>
+<line id="92">%s zaubert %s!</line>
+<line id="93">{INK 006}Dies ist kein magischer Gegenstand!</line>
+<line id="94">{INK 006}Gegenstand hat keine Ladungen mehr.</line>
+<line id="133">Auf welches Feld anwenden?</line>
+<line id="134">%s beschwört %s aus %s!</line>
+<line id="428">Wen transportieren?</line>
+<line id="429">Wohin transportieren?</line>
+<line id="721">Dieses Monster kann nicht teleportiert werden!</line>
+<line id="722">Das Teleportationsziel ist schon belegt!</line>
+<line id="600">{INK 006}Dieser Spruch funktioniert nur in 3D-Karten!</line>
+<line id="413">{INK 006}Niemand ist müde!</line>
+<line id="731">%s hat den Zauber komplett abwehren können!</line>
+<line id="418">%s hat den Zauber nicht abwehren können!</line>
+<line id="630">%s hat den Zauber nur teilweise abwehren können!</line>
+<line id="774">Der Spruch hat keinen Effekt auf %s!</line>
+<line id="725">{SUBJ}{NAME} hat Lebenspunkte für das Zaubern verbraucht!</line>
+<line id="698">{COMB}{NAME}'s Spruch trifft niemanden!</line>
+
+
+	*** Requesters ***
+
+<line id="64">OK</line>
+<line id="695">Fenster schlieáen</line>
+<line id="201">Nummer eingeben:</line>
+<line id="507">Wort eingeben:</line>
+<line id="60">Ja</line>
+<line id="61">Nein</line>
+
+
+	*** Dialogue ***
+
+<line id="508">{INK 002}"Eure Gruppe scheint mir bereits komplett zu sein!"</line>
+<line id="496">Welchen Gegenstand anbieten?</line>
+<line id="511">{INK 006}Dieser Gegenstand ist wichtig!</line>
+<line id="497">{INK 002}"Darüber kann ich nicht viel sagen."</line>
+<line id="498">{INK 002}"Darüber kann ich nicht viel sagen, Tom."</line>
+<line id="499">{INK 002}"Dieser Gegenstand interessiert mich nicht."</line>
+<line id="501">{INK 002}"Danke, aber ich möchte euch nicht begleiten."</line>
+<line id="502">{INK 002}"Nun gut. Ich werde gehen."</line>
+<line id="503">{INK 002}"Lebt wohl!"</line>
+<line id="504">{INK 002}"Alsdann, Tom."</line>
+<line id="505">{INK 002}"Seid gegrüát!"</line>
+<line id="506">{INK 002}"Hallo, Tom. Was gibt's?"</line>
+<line id="509">{INK 002}"Das sagt mir überhaupt nichts."</line>
+<line id="510">{INK 002}"Das sagt mir überhaupt nichts, Tom."</line>
+<line id="491">Was wiát Ihr über...?</line>
+<line id="492">Was sagt Ihr zu diesem Gegenstand...?</line>
+<line id="493">Möchtet Ihr mit uns reisen?</line>
+<line id="494">Ich möchte gern, daá Du uns verläát.</line>
+<line id="495">Danke für das Gespräch!</line>
+<line id="500">Was ist Euer Beruf?</line>
+
+
+	*** Chest screen ***
+
+<line id="514">Behälterbildschirm verlassen</line>
+<line id="530">Behälter</line>
+<line id="516">Zurück ins Gerümpel nicht möglich!</line>
+
+
+	*** Door screen ***
+
+<line id="521">Türbildschirm verlassen</line>
+
+
+	*** Apres combat screen ***
+
+<line id="547">Kampfbildschirm verlassen</line>
+<line id="548">Hinterlassene Gegenstände</line>
+<line id="549">Auf den Rest der Gegenstände verzichten?</line>
+<line id="550">{INK 006}Es gibt hier noch einen wichtigen Gegenstand!</line>
+
+
+	*** After combat ***
+
+<line id="551">Niemand hat an Erfahrung gewonnen.</line>
+<line id="552">Jeder der Gefährten erhält %u Erfahrungspunkte.</line>
+
+
+	*** Places (shops etc.) ***
+
+<line id="553">Es sind keine Trainingspunkte mehr übrig.</line>
+<line id="554">{INK 002}"Im Moment kann ich Euch nicht mehr beibringen."</line>
+<line id="556">{INK 002}"Um wieviel wollt Ihr Eure Fähigkeit verbessern?"</line>
+<line id="558">{LEAD}{NAME} unterzieht sich einem intensiven Training.</line>
+<line id="563">{INK 002}"Wen soll ich heilen?"</line>
+<line id="559">{INK 002}"Diese Person ist völlig gesund!"</line>
+<line id="560">{INK 002}"Wieviele Lebenspunkte soll ich heilen?"</line>
+<line id="561">{SUBJ}{NAME}'s Lebenspunkte wurden regeneriert.</line>
+<line id="745">{INK 002}"Wessen verfluchte Gegenstände soll ich entfernen?"</line>
+<line id="718">{INK 002}"Diese Person trägt keine verfluchte Gegenstände!"</line>
+<line id="744">{INK 002}"Keiner von euch trägt verfluchte Gegenstände!"</line>
+<line id="562">{SUBJ}{NAME}'s verfluchte Gegenstände wurden entfernt!</line>
+<line id="564">{INK 002}"Welchen Gegenstand soll ich für Euch untersuchen?"</line>
+<line id="565">{INK 006}Dieser Gegenstand ist schon einmal untersucht worden!</line>
+<line id="566">Der Gegenstand ist untersucht worden, die Informationen können nun abgerufen werden.</line>
+<line id="569">Welcher Gegenstand soll mit neuer Energie versehen werden?</line>
+<line id="567">{INK 006}Der Gegenstand ist bereits voll geladen!</line>
+<line id="568">{INK 006}Dieser Gegenstand kann nicht mehr regeneriert werden!</line>
+<line id="570">Um wieviele Ladungen soll der Gegenstand regeneriert werden?</line>
+<line id="571">Der Gegenstand ist mit magischer Energie geladen worden.</line>
+<line id="588">{INK 002}"Wieviele Rationen möchtet Ihr kaufen?"</line>
+<line id="589">Die Rationen wurden gekauft.</line>
+<line id="591">Welcher Gegenstand soll repariert werden?</line>
+<line id="590">{INK 006}Dieser Gegenstand ist nicht defekt!</line>
+<line id="592">Der Gegenstand ist repariert.</line>
+<line id="420">Händlerbildschirm verlassen</line>
+<line id="572">Händler</line>
+<line id="575">Wieviele Gegenstände kaufen?</line>
+<line id="576">Die Gegenstände wurden gekauft.</line>
+<line id="578">{INK 006}Das ist zu teuer!</line>
+<line id="580">{INK 006}{INVE}{NAME} hat keine Plätze mehr frei!</line>
+<line id="581">{INK 006}Der Händler hat keinen Lagerplatz mehr!</line>
+<line id="582">Wieviele Gegenstände verkaufen?</line>
+<line id="583">Die Gegenstände wurden verkauft.</line>
+<line id="587">{INK 006}Dieser Gegenstand ist wertlos.</line>
+<line id="751">{INK 006}Zerbrochenes ist unverkäuflich!</line>
+<line id="573">Kaufen</line>
+<line id="557">{INK 002}"Das wären dann %d.%u Goldstücke. Einverstanden?"</line>
+<line id="584">{INK 002}"Dafür biete ich Euch %d.%u Goldstücke. Einverstanden?"</line>
+<line id="555">Das Gold reicht nicht aus!</line>
+<line id="585">Gold(Alle)</line>
+<line id="586">Gesamtes Gold der Gefährten: %ld.%u</line>
+<line id="602">{LEAD}{NAME} und die Gefährten werden in Ihr Zimmer geführt und verbringen eine erholsame Ruhepause.</line>
+<line id="608">Welche Kondition heilen?</line>
+<line id="625">{SUBJ}{NAME} wurde geheilt!</line>
+<line id="626">{INK 002}"Mir scheint, daá alle von Euch völlig gesund sind!"</line>
+<line id="628">{INK 002}"Niemand von Euch kann meine Art der Magie lernen."</line>
+<line id="631">{INK 002}"Was soll ich lehren?"</line>
+
+
+	*** Camp screen ***
+
+<line id="603">Niemand fühlt sich bereits wieder müde!</line>
+<line id="604">Die Gefährten ruhen bis zum Morgengrauen.</line>
+<line id="605">Die Gefährten ruhen für acht Stunden.</line>
+<line id="606">{SUBJ}{NAME} erholt sich nicht, weil {HE  } keine Nahrung mehr hat!</line>
+
+
+	*** Conditions ***
+
+<line id="609">Bewuátlos</line>
+<line id="610">Vergiftet</line>
+<line id="611">Krank</line>
+<line id="612">Erschöpft</line>
+<line id="613">Bewegungsunfähig</line>
+<line id="614">Auf der Flucht</line>
+<line id="615">Berauscht</line>
+<line id="616">Blind</line>
+<line id="617">In Panik</line>
+<line id="618">Schlafend</line>
+<line id="619">Verrückt</line>
+<line id="620">Irritiert</line>
+<line id="621"></line>
+<line id="622"></line>
+<line id="623"></line>
+<line id="624"></line>
+
+
+	*** Left Inventory 1 ***
+
+<line id="632">{INVE}{NAME} ({SEXC}), %u Jahre alt, {RACE}, {CLAS}, Stufe %d.</line>
+<line id="633">Lebenspunkte</line>
+<line id="634">Spruchpunkte</line>
+<line id="667">Erfahrungspunkte</line>
+<line id="668">Trainingspunkte</line>
+
+
+	*** Left Inventory 2 ***
+
+<line id="647">Attribute</line>
+<line id="648">Fähigkeiten</line>
+
+
+	*** Left Inventory 3 ***
+
+<line id="661">Konditionen</line>
+<line id="662">Sprachen</line>
+<line id="669">Temporäre Sprüche</line>
+<line id="673">%d%% (%u Std.)</line>
+<line id="13">Kampfpositionen</line>
+<line id="666">Kampfpositionen ändern</line>
+<line id="69">Tausche %s mit %s</line>
+<line id="674">%s positionieren</line>
+
+
+	*** Attributes ***
+
+<line id="635">Stärke</line>
+<line id="636">Intelligenz</line>
+<line id="637">Geschicklichkeit</line>
+<line id="638">Schnelligkeit</line>
+<line id="639">Ausdauer</line>
+<line id="640">Glück</line>
+<line id="641">Magieresistenz</line>
+<line id="642">Magietalent</line>
+
+
+	*** Skills ***
+
+<line id="643">Nahkampf</line>
+<line id="644">Fernkampf</line>
+<line id="645">Kritischer Treffer</line>
+<line id="646">Schlösser knacken</line>
+
+
+	*** Attribute abbreviations ***
+
+<line id="649">STÄ</line>
+<line id="650">INT</line>
+<line id="651">GES</line>
+<line id="652">SCH</line>
+<line id="653">AUS</line>
+<line id="654">GLÜ</line>
+<line id="655">M-R</line>
+<line id="656">M-T</line>
+
+
+	*** Skill abbreviations ***
+
+<line id="657">N-K</line>
+<line id="658">F-K</line>
+<line id="659">KRI</line>
+<line id="660">S-K</line>
+
+
+	*** Game languages ***
+
+<line id="663">Irdisch</line>
+<line id="664">Iskai</line>
+<line id="665">Keltisch</line>
+
+
+	*** Temporary spell names ***
+
+<line id="670">Angriff</line>
+<line id="671">Schutz</line>
+<line id="672">Anti-Magie</line>
+
+
+	*** Examine item 1 window ***
+
+<line id="683">Mehr...</line>
+<line id="694">Mehr Informationen</line>
+<line id="676">Typ</line>
+<line id="675">Gewicht</line>
+<line id="684">%d g</line>
+<line id="681">Schaden</line>
+<line id="682">Schutz</line>
+
+
+	*** Examine item 2 window ***
+
+<line id="685">Fähigkeiten-Malus 1</line>
+<line id="686">Fähigkeiten-Malus 2</line>
+<line id="687">Keiner</line>
+<line id="688">LP-Maximum Bonus</line>
+<line id="689">SP-Maximum Bonus</line>
+<line id="690">Attribut-Bonus</line>
+<line id="691">Fähigkeiten-Bonus</line>
+<line id="692">Zauberspruch</line>
+<line id="693">Verzauberungen</line>
+
+
+	*** Main menu ***
+
+<line id="700">Hauptmenü</line>
+<line id="702">Neues Spiel</line>
+<line id="703">Spiel fortsetzen</line>
+<line id="704">Spielstand laden</line>
+<line id="705">Spielstand speichern</line>
+<line id="706">Optionen</line>
+<line id="707">Vorspann</line>
+<line id="708">Credits</line>
+<line id="709">Spiel beenden</line>
+<line id="710">Spiel wirklich beenden?</line>
+<line id="711">Welchen Spielstand möchten Sie laden?</line>
+<line id="712">Welchen Spielstand möchten Sie speichern?</line>
+<line id="713">Möchten Sie diesen Spielstand wirklich überschreiben?</line>
+<line id="714">Bitte geben Sie einen Namen für den Spielstand ein:</line>
+<line id="715">Möchten Sie wirklich ein neues Spiel starten?</line>
+<line id="716">(Leerer Platz)</line>
+<line id="717">Es konnten keine Spielstände gefunden werden!</line>
+<line id="775">{INK 006}{BIG }{CNTR}Es ist nicht mehr genügend Platz auf dem Datenspeicher vorhanden!</line>
+
+
+	*** Options ***
+
+<line id="741">Lautstärke der Musik</line>
+<line id="742">Lautstärke der digitalen Effekte</line>
+<line id="743">Gröáe des 3D-Fensters</line>
+<line id="415">Kampfdetailstufe</line>
+<line id="416">Textverzögerung Kampf</line>
+
+
+	*** Special item activation texts ***
+
+<line id="753">Der Kompass ist jetzt aktiv!</line>
+<line id="754">Das Monsterauge ist jetzt aktiv!</line>
+<line id="756">Die Uhr ist jetzt aktiv!</line>
+
+
+	*** Combat effect texts ***
+
+<line id="419">%s ist magisch beschleunigt!</line>
+<line id="737">%s magische Beschleunigung ist vorüber!</line>
+<line id="739">%s ist eingefroren!</line>
+<line id="740">%s ist nicht mehr einfroren!</line>
+<line id="627">%s ist geblendet!</line>
+<line id="629">%s ist nicht mehr geblendet!</line>
+<line id="422">%s ist im Berserkerstadium!</line>
+<line id="738">%s ist nicht mehr im Beserkerstadium!</line>
+
+
+	*** Condition texts ***
+
+<line id="762">{INK 006}{SUBJ}{NAME} ist bewuátlos!</line>
+<line id="763">{INK 006}{SUBJ}{NAME} ist vergiftet!</line>
+<line id="764">{INK 006}{SUBJ}{NAME} ist krank!</line>
+<line id="765">{INK 006}{SUBJ}{NAME} ist erschöpft!</line>
+<line id="766">{INK 006}{SUBJ}{NAME} ist bewegungsunfähig!</line>
+<line id="767">{INK 006}{SUBJ}{NAME} ist auf der Flucht!</line>
+<line id="768">{INK 006}{SUBJ}{NAME} ist berauscht!</line>
+<line id="769">{INK 006}{SUBJ}{NAME} ist blind!</line>
+<line id="770">{INK 006}{SUBJ}{NAME} ist in Panik!</line>
+<line id="771">{INK 006}{SUBJ}{NAME} schläft!</line>
+<line id="772">{INK 006}{SUBJ}{NAME} ist verrückt!</line>
+<line id="773">{INK 006}{SUBJ}{NAME} ist irritiert!</line>
+
+
+	*** Various messages ***
+
+<line id="759">{INK 006}Ist zu sehr verletzt!</line>
+<line id="761">{INK 006}{CNTR}{BIG }{SUBJ}{NAME} ist krank,^^{NORS}und {HE  } spürt, wie {HIS } Körper dauerhaften Schaden nimmt!</line>
+<line id="417">{INK 006}{CNTR}{BIG }Der Tod beendet die Reise.^^{NORS}Alle Gefährten sind so schwer verletzt, daá sie bewuátlos werden und kurz darauf sterben.</line>
+<line id="421">Bildschirm verlassen</line>
+<line id="167">Wegmarkierung gesetzt!</line>
+<line id="699">{INK 002}{SUBJ}{NAME} trägt zuviel!</line>
+<line id="720">{SUBJ}{NAME} hatte Glück und ist der Falle entkommen!</line>
+<line id="127">{INK 006}Ist bewuátlos!</line>
+<line id="732">Alle werden müde!</line>
+<line id="733">Alle sind nun erschöpft!</line>
+<line id="734">{INK 006}{CNTR}{BIG }Ein Angriff!</line>
+<line id="748">{INK 002}{CNTR}{BIG }%s hat Stufe %u erreicht!^{NORS}^Lebenspunkte : %u^Spruchpunkte : %u^Zusätzliche Trainingspunkte : %u^Angriffe pro Runde : %u</line>
+<line id="749">{INK 002}{CNTR}{BIG }%s hat Stufe %u erreicht!^{NORS}^Lebenspunkte : %u^Zusätzliche Trainingspunkte : %u^Angriffe pro Runde : %u</line>
+<line id="750">%s hat die höchste Stufe erreicht!</line>
+
+
+	*** UNUSED ***
+<line id="128">Kann benutzt werden von:</line>
+<line id="129">Kennt nicht die richtige Sprache!</line>
+
+</text>
