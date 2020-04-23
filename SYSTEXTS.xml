@@ -72,7 +72,7 @@
 
 	*** Inventory item pop-up menu ***
 
-<line id="15">Položit</line>
+<line id="15">Zahodit</line>
 <line id="16">Naučit se kouzlo</line>
 <line id="17">Prozkoumat</line>
 <line id="18">Vypít</line>
@@ -104,7 +104,7 @@
 	*** Items ***
 
 <line id="22">%s</line>
-<line id="517">Položit %s</line>
+<line id="517">Zahodit %s</line>
 <line id="518">Vyměnit %s za %s</line>
 <line id="519">{INK 006}Toto místo je zabrané!</line>
 <line id="520">Přidat</line>
@@ -517,7 +517,7 @@
 <line id="294">Úder blesku</line>
 <line id="295">Ohnivý déšť</line>
 <line id="296">Proud blesků</line>
-<line id="297">Ohnivé kroupy</line>
+<line id="297">Ohnivé krupobití</line>
 
 <line id="298">Hromobití</line>
 <line id="299">Blesková past</line>
