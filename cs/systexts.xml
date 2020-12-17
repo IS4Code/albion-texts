@@ -1048,9 +1048,9 @@
 <line id="732">Všichni jsou unaveni!</line>
 <line id="733">Všichni jsou vyčerpáni!</line>
 <line id="734">{INK 006}{CNTR}{BIG }Útok!</line>
-<line id="748">{INK 002}{CNTR}{BIG }%s získává úroveň %u!^{NORS}^Životní body: %u^Magické body: %u^Dodatečné výcvikové body: %u^Útoky za kolo: %u</line>
-<line id="749">{INK 002}{CNTR}{BIG }%s získává úroveň %u!^{NORS}^Životní body: %u^Dodatečné výcvikové body: %u^Útoky za kolo: %u</line>
-<line id="750">%s získává maximální úroveň postavy!</line>
+<line id="748">{INK 002}{CNTR}{BIG }%s dosahuje úrovně %u!^{NORS}^Životní body: %u^Magické body: %u^Dodatečné výcvikové body: %u^Útoky za kolo: %u</line>
+<line id="749">{INK 002}{CNTR}{BIG }%s dosahuje úrovně %u!^{NORS}^Životní body: %u^Dodatečné výcvikové body: %u^Útoky za kolo: %u</line>
+<line id="750">%s dosahuje maximální úrovně postavy!</line>
 
 
 	*** UNUSED ***
