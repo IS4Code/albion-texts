@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <text xml:space="preserve">	ALBION System texts (GERMAN)
 
 	*** Party member portraits ***
@@ -134,8 +134,8 @@
 <line id="40">Objet magique</line>
 <line id="41">Objet spécial</line>
 <line id="42">Transport</line>
-<line id="43">Objet lumineux</line>
-<line id="44"></line>
+<line id="43">Crochet</line>
+<line id="44">Objet lumineux</line>
 <line id="45"></line>
 <line id="46"></line>
 
