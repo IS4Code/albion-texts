@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <text xml:space="preserve">	ALBION System texts (GERMAN)
 
 	*** Party member portraits ***
@@ -40,7 +40,7 @@
 <line id="8">Manipulieren</line>
 <line id="9">Gegenstand benutzen</line>
 <line id="74">Aufnehmen</line>
-<line id="11">{INK 002}Zu Fuá gehen</line>
+<line id="11">{INK 002}Zu Fuß gehen</line>
 <line id="130">{INK 002}Übersichtskarte</line>
 <line id="12">{INK 002}Rasten</line>
 <line id="723">{INK 002}Warten</line>
@@ -154,18 +154,18 @@
 
 	*** Locks ***
 
-<line id="71">Schloá</line>
-<line id="72">Schloá knacken</line>
-<line id="73">Aufschlieáen</line>
-<line id="522">{LEAD}{NAME} hat das Schloá geknackt!</line>
-<line id="523">Dieses Schloá kann nicht geknackt werden!</line>
+<line id="71">Schloß</line>
+<line id="72">Schloß knacken</line>
+<line id="73">Aufschließen</line>
+<line id="522">{LEAD}{NAME} hat das Schloß geknackt!</line>
+<line id="523">Dieses Schloß kann nicht geknackt werden!</line>
 <line id="524">{LEAD}{NAME} hat eine Falle ausgelöst, konnte ihr aber ausweichen!</line>
 <line id="525">{LEAD}{NAME} hat eine Falle ausgelöst!</line>
-<line id="526">{LEAD}{NAME} hat das Schloá geöffnet!</line>
-<line id="527">{LEAD}{NAME} hat das Schloá mit einen Dietrich geöffnet!</line>
+<line id="526">{LEAD}{NAME} hat das Schloß geöffnet!</line>
+<line id="527">{LEAD}{NAME} hat das Schloß mit einen Dietrich geöffnet!</line>
 <line id="528">Das ist nicht der richtige Schlüssel.</line>
-<line id="529">Damit kann man das Schloá nicht öffnen.</line>
-<line id="538">{LEAD}{NAME} schafft es nicht, das Schloá zu knacken!</line>
+<line id="529">Damit kann man das Schloß nicht öffnen.</line>
+<line id="538">{LEAD}{NAME} schafft es nicht, das Schloß zu knacken!</line>
 
 
 	*** High-level text commands ***
@@ -518,9 +518,9 @@
 
 <line id="298">Blitzsturm</line>
 <line id="299">Blitzfalle</line>
-<line id="300">Groáe Blitzfalle</line>
+<line id="300">Große Blitzfalle</line>
 <line id="301">Blitzmine</line>
-<line id="302">Groáe Blitzmine</line>
+<line id="302">Große Blitzmine</line>
 
 <line id="303">Leben stehlen</line>
 <line id="304">Magie stehlen</line>
@@ -723,7 +723,7 @@
 	*** Requesters ***
 
 <line id="64">OK</line>
-<line id="695">Fenster schlieáen</line>
+<line id="695">Fenster schließen</line>
 <line id="201">Nummer eingeben:</line>
 <line id="507">Wort eingeben:</line>
 <line id="60">Ja</line>
@@ -742,14 +742,14 @@
 <line id="502">{INK 002}"Nun gut. Ich werde gehen."</line>
 <line id="503">{INK 002}"Lebt wohl!"</line>
 <line id="504">{INK 002}"Alsdann, Tom."</line>
-<line id="505">{INK 002}"Seid gegrüát!"</line>
+<line id="505">{INK 002}"Seid gegrüßt!"</line>
 <line id="506">{INK 002}"Hallo, Tom. Was gibt's?"</line>
 <line id="509">{INK 002}"Das sagt mir überhaupt nichts."</line>
 <line id="510">{INK 002}"Das sagt mir überhaupt nichts, Tom."</line>
-<line id="491">Was wiát Ihr über...?</line>
+<line id="491">Was wißt Ihr über...?</line>
 <line id="492">Was sagt Ihr zu diesem Gegenstand...?</line>
 <line id="493">Möchtet Ihr mit uns reisen?</line>
-<line id="494">Ich möchte gern, daá Du uns verläát.</line>
+<line id="494">Ich möchte gern, daß Du uns verläßt.</line>
 <line id="495">Danke für das Gespräch!</line>
 <line id="500">Was ist Euer Beruf?</line>
 
@@ -827,7 +827,7 @@
 <line id="602">{LEAD}{NAME} und die Gefährten werden in Ihr Zimmer geführt und verbringen eine erholsame Ruhepause.</line>
 <line id="608">Welche Kondition heilen?</line>
 <line id="625">{SUBJ}{NAME} wurde geheilt!</line>
-<line id="626">{INK 002}"Mir scheint, daá alle von Euch völlig gesund sind!"</line>
+<line id="626">{INK 002}"Mir scheint, daß alle von Euch völlig gesund sind!"</line>
 <line id="628">{INK 002}"Niemand von Euch kann meine Art der Magie lernen."</line>
 <line id="631">{INK 002}"Was soll ich lehren?"</line>
 
@@ -842,7 +842,7 @@
 
 	*** Conditions ***
 
-<line id="609">Bewuátlos</line>
+<line id="609">Bewußtlos</line>
 <line id="610">Vergiftet</line>
 <line id="611">Krank</line>
 <line id="612">Erschöpft</line>
@@ -991,7 +991,7 @@
 
 <line id="741">Lautstärke der Musik</line>
 <line id="742">Lautstärke der digitalen Effekte</line>
-<line id="743">Gröáe des 3D-Fensters</line>
+<line id="743">Größe des 3D-Fensters</line>
 <line id="415">Kampfdetailstufe</line>
 <line id="416">Textverzögerung Kampf</line>
 
@@ -1017,7 +1017,7 @@
 
 	*** Condition texts ***
 
-<line id="762">{INK 006}{SUBJ}{NAME} ist bewuátlos!</line>
+<line id="762">{INK 006}{SUBJ}{NAME} ist bewußtlos!</line>
 <line id="763">{INK 006}{SUBJ}{NAME} ist vergiftet!</line>
 <line id="764">{INK 006}{SUBJ}{NAME} ist krank!</line>
 <line id="765">{INK 006}{SUBJ}{NAME} ist erschöpft!</line>
@@ -1035,12 +1035,12 @@
 
 <line id="759">{INK 006}Ist zu sehr verletzt!</line>
 <line id="761">{INK 006}{CNTR}{BIG }{SUBJ}{NAME} ist krank,^^{NORS}und {HE  } spürt, wie {HIS } Körper dauerhaften Schaden nimmt!</line>
-<line id="417">{INK 006}{CNTR}{BIG }Der Tod beendet die Reise.^^{NORS}Alle Gefährten sind so schwer verletzt, daá sie bewuátlos werden und kurz darauf sterben.</line>
+<line id="417">{INK 006}{CNTR}{BIG }Der Tod beendet die Reise.^^{NORS}Alle Gefährten sind so schwer verletzt, daß sie bewußtlos werden und kurz darauf sterben.</line>
 <line id="421">Bildschirm verlassen</line>
 <line id="167">Wegmarkierung gesetzt!</line>
 <line id="699">{INK 002}{SUBJ}{NAME} trägt zuviel!</line>
 <line id="720">{SUBJ}{NAME} hatte Glück und ist der Falle entkommen!</line>
-<line id="127">{INK 006}Ist bewuátlos!</line>
+<line id="127">{INK 006}Ist bewußtlos!</line>
 <line id="732">Alle werden müde!</line>
 <line id="733">Alle sind nun erschöpft!</line>
 <line id="734">{INK 006}{CNTR}{BIG }Ein Angriff!</line>
